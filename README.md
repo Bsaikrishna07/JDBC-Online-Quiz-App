@@ -28,8 +28,4 @@ A beginner-friendly Java project to demonstrate how to use **JDBC** to connect J
 
 ---
 
-### 📷 Screenshots
-_Add some images of your code or output here if you like!_
-
----
 
